@@ -158,4 +158,4 @@ Puntos clave aprendidos:
 Este laboratorio establece las bases necesarias para los siguientes módulos, permitiendo al participante familiarizarse con el entorno, la navegación y los conceptos esenciales antes de comenzar a crear y administrar recursos en Google Cloud.
 
 
-## Conclusiones
+## Fin del laboratorio 1
