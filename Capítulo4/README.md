@@ -233,4 +233,4 @@ Puntos clave:
 
 Cloud Storage es un componente fundamental en arquitecturas modernas para aplicaciones, analítica, respaldo y distribución de contenido.
 
-
+### Fin del laboratorio 4

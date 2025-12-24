@@ -310,4 +310,4 @@ En este laboratorio aprendiste que:
 La Inteligencia Artificial no solo es una tecnología avanzada, sino una herramienta estratégica que impulsa la innovación, optimiza procesos y mejora la toma de decisiones en las organizaciones.
 
 ---
-## Fin del laboratorio
+### Fin del laboratorio 3

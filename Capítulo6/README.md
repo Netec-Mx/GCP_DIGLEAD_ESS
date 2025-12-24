@@ -214,3 +214,5 @@ La nube permite escalar rápidamente, pero solo una **operación consciente y re
 
 Operar bien en la nube es:
 **eficiencia + control + sostenibilidad**.
+
+### Fin del laboratorio 6

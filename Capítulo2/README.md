@@ -190,4 +190,4 @@ Por esta razón, analizar datasets públicos es ideal para aprender sin incurrir
 - Google Cloud habilita la **analítica a gran escala** combinando rendimiento, escalabilidad y simplicidad operativa.
 - Este laboratorio demuestra cómo la transformación digital basada en datos comienza con el acceso, exploración y análisis de información confiable.
 
-## Fin del laboratorio
+### Fin del laboratorio 2

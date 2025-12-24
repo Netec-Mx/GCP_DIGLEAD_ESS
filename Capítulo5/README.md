@@ -287,3 +287,5 @@ Este laboratorio demuestra que la seguridad en la nube **no es automática**, si
 > **Diseñada, monitoreada y auditada conscientemente.**
 
 Google Cloud proporciona las herramientas necesarias; el uso correcto depende del diseño y las decisiones del usuario.
+
+### Fin del laboratorio 5
