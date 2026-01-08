@@ -13,42 +13,45 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ---
 
-### 🔹 [Laboratorio 01: Exploración de Google Cloud Console](Capitulo1/README.md)
+## 📘 Lista de Laboratorios
+
+
+- [Laboratorio 01: Exploración de Google Cloud Console](#laboratorio-01-exploración-de-google-cloud-console)
 
 - **Descripción**: Conoce la consola de Google Cloud, navegación básica y servicios principales.
 - ⏱️ **Duración estimada**: 20 minutos
 
 ---
 
-### 🔹 [Laboratorio 02: Transformación de datos con Google Cloud](Capitulo2/README.md)
-
+- [Laboratorio 02: Transformación de datos con Google Cloud](#laboratorio-02-transformación-de-datos-con-google-cloud)
+  
 - **Descripción**: Introducción al manejo y transformación de datos en Google Cloud.
 - ⏱️ **Duración estimada**: 40 minutos
 
 ---
 
-### 🔹 [Laboratorio 03: Innovar con Inteligencia Artificial en Google Cloud](Capitulo3/README.md)
+- [Laboratorio 03: Innovar con Inteligencia Artificial en Google Cloud](#laboratorio-03-innovar-con-inteligencia-artificial-en-google-cloud)
 
 - **Descripción**: Uso de servicios de IA para generar valor e innovación.
 - ⏱️ **Duración estimada**: 40 minutos
 
 ---
 
-### 🔹 [Laboratorio 04: Almacenamiento en la nube con Google Cloud](Capitulo4/README.md)
+- [Laboratorio 04: Almacenamiento en la nube con Google Cloud](#laboratorio-04-almacenamiento-en-la-nube-con-google-cloud)
 
 - **Descripción**: Tipos de almacenamiento, casos de uso y mejores prácticas.
 - ⏱️ **Duración estimada**: 40 minutos
 
 ---
 
-### 🔹 [Laboratorio 05: Seguridad, auditoría y detección de cambios en Google Cloud](Capitulo5/README.md)
+- [Laboratorio 05: Seguridad, auditoría y detección de cambios en Google Cloud](#laboratorio-05-seguridad-auditoría-y-detección-de-cambios-en-google-cloud)
 
 - **Descripción**: Seguridad, cumplimiento y monitoreo en Google Cloud.
 - ⏱️ **Duración estimada**: 45 minutos
 
 ---
 
-### 🔹 [Laboratorio 06: Gestión de costos, operación y sustentabilidad en Google Cloud](Capitulo6/README.md)
+- [Laboratorio 06: Gestión de costos, operación y sustentabilidad en Google Cloud](#laboratorio-06-gestión-de-costos-operación-y-sustentabilidad-en-google-cloud)
 
 - **Descripción**: Optimización de costos, operaciones y prácticas sustentables.
 - ⏱️ **Duración estimada**: 40 minutos
