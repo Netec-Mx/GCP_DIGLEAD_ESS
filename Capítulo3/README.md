@@ -13,7 +13,7 @@ Al finalizar la práctica, serás capaz de:
 Representar el flujo de interacción entre un usuario, un prompt y un modelo de IA administrado en Vertex AI.
 
 
-![diagrama3](../images/Capitulo3/Diagrama3.png)
+![diagrama3](../images/Capitulo3/diagrama3c.png)
 ---
 
 ## Duración aproximada **40 minutos**.

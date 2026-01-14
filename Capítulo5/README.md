@@ -13,7 +13,7 @@ Al finalizar la práctica, serás capaz de:
 ## Objetivo visual
 Representar el flujo de creación, eliminación y auditoría de una máquina virtual en Google Cloud.
 
-![diagrama5](../images/Capitulo5/Diagrama5.png)
+![diagrama5](../images/Capitulo5/diagrama5c.png)
 
 ---
 

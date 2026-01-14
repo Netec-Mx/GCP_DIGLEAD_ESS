@@ -13,7 +13,7 @@ Al finalizar la práctica, serás capaz de:
 ## Objetivo visual
 Representar el flujo de almacenamiento de archivos desde un usuario hacia un bucket en Google Cloud Storage.
 
-![diagrama4](../images/Capitulo4/Diagrama4.png)
+![diagrama4](../images/Capitulo4/diagrama4c.png)
 
 ---
 
