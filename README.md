@@ -1,73 +1,42 @@
-<img src="images/neteclogo.png" alt="logo" width="300"/>
+# Nombre del laboratorio 
 
-# GCP_DIGLEAD_ESS
+## Objetivo de la práctica:
+Al finalizar la práctica, serás capaz de:
+- Objetivo1
+- Objetivo2
+- Objetivo3
 
-## Plataforma de laboratorios
+## Objetivo Visual 
+Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-Te damos la bienvenida a la **plataforma de laboratorios** del curso  **GCP_DIGLEAD_ESS**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
+![diagrama1](../images/img1.png)
 
+## Duración aproximada:
+- xx minutos.
 
-## 📘 Lista de laboratorios
+## Tabla de ayuda:
+Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
+| Contraseña | Correo | Código |
+| --- | --- | ---|
+| Netec2024 | edgardo@netec.com | 123abc |
 
-Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
+## Instrucciones 
+<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
+### Tarea 1. Descripción de la tarea a realizar.
+Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
----
+Paso 2. <!-- Añadir instrucción -->
 
-## 📘 Lista de Laboratorios
+Paso 3. <!-- Añadir instrucción -->
 
+### Tarea 2. Descripción de la tarea a realizar.
+Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-- 📗 [Laboratorio 01: Exploración de Google Cloud Console](Capitulo1/README.md)
+Paso 2. <!-- Añadir instrucción -->
 
-- **Descripción**: Conoce la consola de Google Cloud, navegación básica y servicios principales.
-- ⏱️ **Duración estimada**: 20 minutos
+Paso 3. <!-- Añadir instrucción -->
 
----
-
-- 📗 [Laboratorio 02: Transformación de datos con Google Cloud](Capitulo2/README.md)
-- 
-- **Descripción**: Introducción al manejo y transformación de datos en Google Cloud.
-- ⏱️ **Duración estimada**: 40 minutos
-
----
-
-
-- 📗 [Laboratorio 03: Innovar con Inteligencia Artificial en Google Cloud](Capitulo3/README.md)
-
-- **Descripción**: Uso de servicios de IA para generar valor e innovación.
-- ⏱️ **Duración estimada**: 40 minutos
-
----
-
-- 📗 [Laboratorio 04: Almacenamiento en la nube con Google Cloud](Capitulo4/README.md)
-
-- **Descripción**: Tipos de almacenamiento, casos de uso y mejores prácticas.
-- ⏱️ **Duración estimada**: 40 minutos
-
----
-
-- 📗 [Laboratorio 05: Seguridad, auditoría y detección de cambios en Google Cloud](Capitulo5/README.md)
-
-- **Descripción**: Seguridad, cumplimiento y monitoreo en Google Cloud.
-- ⏱️ **Duración estimada**: 45 minutos
-
----
-
-- 📗 [Laboratorio 06: Gestión de costos, operación y sustentabilidad en Google Cloud](Capitulo6/README.md)
-
-- **Descripción**: Optimización de costos, operaciones y prácticas sustentables.
-- ⏱️ **Duración estimada**: 40 minutos
-
----
-
-## 📬 **Contacto y más información**
-
-Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
-
-
----
-
-
-
-¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
-
+### Resultado esperado
+En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
+![imagen resultado](../images/img3.png)
 
