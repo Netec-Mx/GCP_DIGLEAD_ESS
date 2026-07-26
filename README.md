@@ -76,6 +76,5 @@ Si tienes alguna pregunta o necesitas soporte durante la realización de los lab
 
 👉 https://netec.com
 
----
 
 ¡Bienvenido! Te recomendamos realizar los laboratorios en el orden presentado, ya que cada práctica construye la infraestructura y los conocimientos necesarios para la siguiente, culminando con un escenario completo de migración y operación.
