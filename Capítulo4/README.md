@@ -374,7 +374,7 @@ Paso 2. Identificar la revisión activa.
 
 Paso 3. Verificar que la revisión recibe el 100 % del tráfico.
 
-![cloudrun](../images/Capitulo4/img8.png)
+
 
 ---
 
@@ -441,7 +441,6 @@ Paso 3. Hacer clic en:
 
 **Delete**
 
-![cloudrun](../images/Capitulo4/img9.png)
 
 Paso 4. Confirmar la eliminación.
 
